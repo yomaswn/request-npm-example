@@ -1,0 +1,24 @@
+{
+  "name": "request-npm-example",
+  "version": "1.0.0",
+  "description": "learn npm request function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yomaswn/request-npm-example.git"
+  },
+  "keywords": [
+    "request",
+    "example",
+    "beginner"
+  ],
+  "author": "yomaswn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yomaswn/request-npm-example/issues"
+  },
+  "homepage": "https://github.com/yomaswn/request-npm-example#readme"
+}
